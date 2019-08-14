@@ -2,4 +2,4 @@ Hello World
 
 
 
-let variable = "devlopment";
+let variable = "staging";
